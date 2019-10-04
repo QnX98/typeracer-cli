@@ -4,6 +4,9 @@
 
 > Practice touch typing and compete with your friends all from the comfort of your shell and become a typing ninja :boom:.
 
+[![Build Status](https://travis-ci.org/p-society/typeracer-cli.svg?branch=master)](https://travis-ci.org/p-society/typeracer-cli)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/baa51166cb03438488dd285d331fdad8)](https://www.codacy.com/app/knrt10/typeracer-cli?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=knrt10/typeracer-cli&amp;utm_campaign=Badge_Grade)
+
 *But this has already been done. Why should I use this client?*
 
 Because most other shell clients don't offer the features that we do
@@ -124,14 +127,14 @@ Yes, ofcourse you can we need lots of paragraphs so that our users don't get bor
 
 - Add paragraphs in `paragraphs/para.json`
 - run `npm test`
-- **Important:** all tests should pass as you would get a test failure for duplicate paragraphs.
+- *Important:* all tests should pass as you would get a test failure for duplicate paragraphs.
 - Find same paragraphs then run `npm test`
 - If all tests pass locally then **Open a PR**
 
 ## Support Us
 
 We are a bunch of undergrads passionate about software development looking to make cool stuff. A little motivation and support helps us a lot. If you like this nifty hack you can support us by doing any (or all :wink: ) of the following:
-- :clap: Upvote on producthunt [producthunt](https://www.producthunt.com/posts/typeracer-cli)
+- :arrow_up: Upvote on producthunt [producthunt](https://www.producthunt.com/posts/typeracer-cli)
 - :star: Star us on [Github](https://github.com/p-society/typeracer-cli) and make us trend so that other people can know about our project.
 - :clap: Clap for us on [Medium](https://medium.com/programming-society-gazette/shellracer-bbce3efbe888)
 - Tweet about us
