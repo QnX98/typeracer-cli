@@ -127,7 +127,7 @@ Yes, ofcourse you can we need lots of paragraphs so that our users don't get bor
 
 - Add paragraphs in `paragraphs/para.json`
 - run `npm test`
-- **Important:** all tests should pass as you would get a test failure for duplicate paragraphs.
+- *Important:* all tests should pass as you would get a test failure for duplicate paragraphs.
 - Find same paragraphs then run `npm test`
 - If all tests pass locally then **Open a PR**
 
